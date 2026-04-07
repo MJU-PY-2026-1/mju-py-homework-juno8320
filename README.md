@@ -40,7 +40,10 @@
     * **적용 내용:** 목적지를 미리 설정해두어 계산과정을 줄이고, 이를 리스트에 보관하여 코드를 간결히 함. 또한 일반실과 특실의 차이를 추가 요금을 부과하는 방식으로 결정함.
     
 ### **📁 증빙 자료:**
-  * [1차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
+  * https://github.com/MJU-PY-2026-1/mju-py-homework-juno8320/blob/main/1%EC%B0%A8%20AI%ED%98%91%EC%97%85%EC%BA%A1%EC%B3%901.png
+  * https://github.com/MJU-PY-2026-1/mju-py-homework-juno8320/blob/main/1%EC%B0%A8%20AI%ED%98%91%EC%97%85%EC%BA%A1%EC%B3%902.png
+  * https://github.com/MJU-PY-2026-1/mju-py-homework-juno8320/blob/main/1%EC%B0%A8%20AI%ED%98%91%EC%97%85%EC%BA%A1%EC%B3%903.png
+  * https://github.com/MJU-PY-2026-1/mju-py-homework-juno8320/blob/main/1%EC%B0%A8%20AI%ED%98%91%EC%97%85%EC%BA%A1%EC%B3%904.png
 
 <br>
 
