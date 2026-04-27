@@ -76,8 +76,9 @@
     * **해결:** 파이썬의 모든 조건문과 반복문 끝에는 항상 땡땡(`:`)이 들어가야 한다는 규칙을 학습하고 수정함.
      
 ### **📁 증빙 자료:**
-  * [2차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
-  * [2차과제_실행결과.jpg]
+  * https://github.com/MJU-PY-2026-1/mju-py-homework-juno8320/blob/main/2%EC%B0%A8_AI%ED%98%91%EC%97%85%EC%BA%A1%EC%B2%981.pdf (2차 ai협업캡쳐1)
+  * https://github.com/MJU-PY-2026-1/mju-py-homework-juno8320/blob/main/2%EC%B0%A8_AI%ED%98%91%EC%97%85%EC%BA%A1%EC%B2%982.pdf (2차 ai협업캡쳐2)
+  * https://github.com/MJU-PY-2026-1/mju-py-homework-juno8320/blob/main/2%EC%B0%A8%EA%B3%BC%EC%A0%9C%20%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC.png (2차과제 실행결과)
 <br>
 
 ## 🟨 [3차 과제: V3.0] 무한 루프와 메뉴 시스템 (반복문) - 향후 작성 예정
