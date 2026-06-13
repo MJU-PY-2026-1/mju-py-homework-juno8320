@@ -65,7 +65,6 @@ def reservation(name):
         elif isfirst==False:
             with open("guest.txt","a", encoding="utf-8") as file :
                 file.write(f"이름 : {guest[0]}, 출발지 : {guest[1]}, 목적지 : {guest[2]}, 출발 시간 : {guest[3]}, 좌석 : {guest[4]}, 가격 : {guest[5]}\n")
-        input("위 내용을 확인하셨으면 [엔터]를 눌러주세요...")
     else:
         print("오류")
 def check():
